@@ -137,3 +137,6 @@ STATIC_URL = '/static/'
 # Login
 
 LOGIN_URL = 'rango:login'
+
+# COOKIES
+SESSION_COOKIE_AGE = 1209600
